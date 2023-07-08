@@ -32,9 +32,10 @@
 **Java奕哥知识星球** ：
 - 更多内容见liebaogrow，关注公众号 "Java奕哥" 扫码加入知识星球。
 
-![10541688801125_.pic.jpg](..%2F..%2F..%2FLibrary%2FContainers%2Fcom.tencent.xinWeChat%2FData%2FLibrary%2FApplication%20Support%2Fcom.tencent.xinWeChat%2F2.0b4.0.9%2Fc8e9498eb0b3c1e08b67f6abdaa15d82%2FMessage%2FMessageTemp%2F207120dd10cdd3d545e78c30e2e28b64%2FImage%2F10541688801125_.pic.jpg)
+![](./fensigroup/10541688801125_.pic.jpg)
+![](./fensigroup/10561688801155_.pic.jpg)
 
-![10561688801155_.pic.jpg](..%2F..%2F..%2FLibrary%2FContainers%2Fcom.tencent.xinWeChat%2FData%2FLibrary%2FApplication%20Support%2Fcom.tencent.xinWeChat%2F2.0b4.0.9%2Fc8e9498eb0b3c1e08b67f6abdaa15d82%2FMessage%2FMessageTemp%2F207120dd10cdd3d545e78c30e2e28b64%2FImage%2F10561688801155_.pic.jpg)
+
 
 **tips:** ：
 - 可能有小伙伴纯看代码阅读起来会有点困难，这是非常非常正常的。我想说学习的步骤是："先知道"-"再模仿"-"然演练"-"终擒来"
